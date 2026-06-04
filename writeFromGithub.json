@@ -32,7 +32,7 @@
   {
     "name": "linux",
     "description": "Linux kernel source tree",
-    "stars": 235282
+    "stars": 235286
   },
   {
     "name": "pesconvert",
@@ -42,7 +42,7 @@
   {
     "name": "ScrollWheel",
     "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
-    "stars": 185
+    "stars": 186
   },
   {
     "name": "subsurface-for-dirk",

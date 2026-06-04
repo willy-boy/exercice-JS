@@ -1,0 +1,24 @@
+{
+  "name": "exercice-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willy-boy/exercice-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/willy-boy/exercice-JS/issues"
+  },
+  "homepage": "https://github.com/willy-boy/exercice-JS#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
