@@ -1,0 +1,62 @@
+[
+  {
+    "name": "1590A",
+    "description": "Random odd guitar pedal design in kicad",
+    "stars": 566
+  },
+  {
+    "name": "AudioNoise",
+    "description": "Random digital audio effects",
+    "stars": 4373
+  },
+  {
+    "name": "GuitarPedal",
+    "description": "Linus learns analog circuits",
+    "stars": 1964
+  },
+  {
+    "name": "HunspellColorize",
+    "description": "Wrapper around 'less' to colorize spelling mistakes using Hunspell",
+    "stars": 345
+  },
+  {
+    "name": "libdc-for-dirk",
+    "description": "Only use for syncing with Dirk, don't use for anything else",
+    "stars": 387
+  },
+  {
+    "name": "libgit2",
+    "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+    "stars": 359
+  },
+  {
+    "name": "linux",
+    "description": "Linux kernel source tree",
+    "stars": 235282
+  },
+  {
+    "name": "pesconvert",
+    "description": "Brother PES file converter",
+    "stars": 560
+  },
+  {
+    "name": "ScrollWheel",
+    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
+    "stars": 185
+  },
+  {
+    "name": "subsurface-for-dirk",
+    "description": "Do not use - the real upstream is  Subsurface-divelog/subsurface",
+    "stars": 457
+  },
+  {
+    "name": "test-tlb",
+    "description": "Stupid memory latency and TLB tester",
+    "stars": 1003
+  },
+  {
+    "name": "uemacs",
+    "description": "Random version of microemacs with my private modificatons",
+    "stars": 2038
+  }
+]
