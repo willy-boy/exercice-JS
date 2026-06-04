@@ -1,0 +1,6 @@
+id,joueur,mise,cote,statut
+1,Alice,10.00,2.5,gagnant
+2,Bob,50.00,1.8,perdant
+3,Alice,20.00,3.0,gagnant
+4,Charlie,100.00,1.5,perdant
+5,Bob,30.00,4.0,gagnant
